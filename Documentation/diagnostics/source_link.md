@@ -1,0 +1,1 @@
+This document has moved to https://github.com/dotnet/designs/blob/master/accepted/diagnostics/source-link.md
